@@ -27,7 +27,7 @@ To use:
     - pivotal_workstation::meta_osx_development
     - pivotal_workstation::meta_ruby_development
     EOF
-    git clone https://github.com/pivotal/pivotal_workstation.git
+    git clone https://github.com/tjohn/pivotal_workstation.git
     soloist
 
 # I want to write my own recipe, what should I know?
