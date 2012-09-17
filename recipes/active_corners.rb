@@ -11,8 +11,8 @@ active_corner_value_to_int = {
 }
 
 corners = {
-  :tl => :all_windows,
-  :tr => :dashboard,
+  :tl => :noop,
+  :tr => :noop,
   :br => :noop,
   :bl => :noop
 }
